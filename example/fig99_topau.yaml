@@ -1,0 +1,20 @@
+dependent_variables: 
+- header: {name: ' $ Y $', units: 'm' }  
+  values: 
+  - value: 0.288 
+    errors: 
+    - symerror: 0.009 
+      label: stat 
+    - symerror: 0.004 
+      label: syst 
+  - value: 0.320 
+    errors: 
+    - symerror: 0.007 
+      label: stat 
+    - symerror: 0.002 
+      label: syst 
+independent_variables: 
+- header: {name: ' $X$ ', units: 's' } 
+  values: 
+  - value: 2.5 
+  - value: 3.5 

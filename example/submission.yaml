@@ -1,0 +1,34 @@
+--- 
+#This is Table 0
+# One importan partis that the 3 - (3 lines) is for separate one yaml file from the others, so in this case the information
+# is double, but that do not affect in the HEPData 
+additional_resources: 
+data_file:  fig99_topau.yaml 
+description: fig99_topau.  
+keywords:   
+- name: observables 
+  values: [Axes or in the paper] 
+- name: reactions 
+  values: [Reaction] 
+- name: cmenergies 
+  values: [cm energy] 
+- name: phrases 
+  values: [Collisions] 
+location: Data from Figure 99    
+name: fig99 data table 0 
+
+additional_resources: 
+data_file:  fig99_topau.yaml 
+description: fig99_topau.  
+keywords:   
+- name: observables 
+  values: [Axes or in the paper] 
+- name: reactions 
+  values: [Reaction] 
+- name: cmenergies 
+  values: [cm energy] 
+- name: phrases 
+  values: [Collisions] 
+location: Data from Figure 99    
+name: fig99 data table 0 
+

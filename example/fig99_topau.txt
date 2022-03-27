@@ -1,0 +1,10 @@
+#txt table example
+#
+#4 columns
+#
+#This is an example with just 2 point, the macro can do more than 2 points
+#
+#x	y	y_stat_err    y_sys_err
+#
+2.5 0.288 0.009 0.004
+3.5 0.320 0.007 0.002
