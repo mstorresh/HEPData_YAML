@@ -1,4 +1,4 @@
-#code create by: Manuel Sebastián Torres Hernández
+#code created by: Manuel Sebastián Torres Hernández
 
 
 import yaml
