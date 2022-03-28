@@ -14,7 +14,7 @@ file1 = input()
 in_file = open(file1, 'r')
 
 lines = in_file.readlines()
-valor1 = lines[9].strip().split()  #This line is for the start of the data in the txt table, the number is the row number in the txt file  
+valor1 = lines[8].strip().split()  #This line is for the start of the data in the txt table, the number is the row number in the txt file  
 print(len(valor1))
 print(valor1)  # just to check if the value is correct
 
