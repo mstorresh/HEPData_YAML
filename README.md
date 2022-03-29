@@ -68,6 +68,7 @@ by HEPData.
 Finally, you have the .yaml files, the plots, and the submission.yaml file, now it is simply compress and upload to the HEPData 
 repository (which you must have permission to upload).
 
+You can find a complete example in the folder "example".
 
 # Credits
 
