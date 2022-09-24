@@ -13,6 +13,8 @@ This project consists of 2 Macros in python, and I only tested it on Linux
 
 ### txt_yaml.py
 
+Txt to yaml
+
 For the first Macro is just run a Python code, however this code is going to ask you for the name of the file
 
 ```
@@ -22,6 +24,8 @@ file name:
 
 ```
 ### sublistyaml.py
+
+Submission file
 
 To run the second Macro is necessary to create two txt lists:
 - texlist.txt (list of the names of the yaml files with the data) 
