@@ -72,7 +72,7 @@ You can find a complete example in the folder "example".
 
 # Credits
 
-This project was developed for the high energy physics group at Purdue University.
+This project was developed by Manuel Sebastian Torres for the high energy physics group at Purdue University.
 
 
 
